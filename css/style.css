@@ -1,0 +1,2341 @@
+*{
+    padding: 0px;
+    margin: auto;
+    box-sizing: content-box;
+}
+/*homepage*/
+.homepage{
+    background-color: #F3D1BF;
+}
+.homepageinn{
+    min-height: 780px;
+    width: 90vw;
+    margin: 0 auto;
+    display: flex;
+    text-decoration: none;
+    text-align: left;
+}
+.about a{
+    position: absolute;
+    top: 58px;
+    left: 208px;
+    width: 99px;
+    height: 45px;
+    /* UI Properties */
+    color: var(--unnamed-color-182830);
+    text-align: left;
+    font: normal normal normal 31px/45px Sacramento;
+    font-family: 'Sacramento', ;
+    letter-spacing: 0px;
+    color: #182830;
+    opacity: 1;
+    text-decoration: none;
+}
+.sharellv a{
+    position: absolute;
+    top: 58px;
+    left: 814px;
+    width: 163px;
+    height: 45px;
+    /* UI Properties */
+    color: var(--unnamed-color-182830);
+    text-align: left;
+    font: normal normal normal 31px/45px Sacramento;
+    letter-spacing: 0px;
+    color: #182830;
+    opacity: 1;
+    text-decoration: none;
+}
+.floras a img{
+    position: absolute;
+    top: 9px;
+    left: 919px;
+    width: 45px;
+    height: 16px;
+    width: 45px;
+    height: 16px;
+    transform: scaleZ();
+    /* UI Properties */
+    background: transparent url('img/Group 1.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+    text-align: left;
+}
+.catalog a{
+    position: absolute;
+    top: 58px;
+    left: 386px;
+    width: 82px;
+    height: 45px;
+    /* UI Properties */
+    color: var(--unnamed-color-182830);
+    text-align: left;
+    font: normal normal normal 31px/45px Sacramento;
+    font-family: 'Sacramento', ;
+    letter-spacing: 0px;
+    color: #182830;
+    opacity: 1;
+    justify-content: space-between;
+    text-decoration: none;
+}
+
+.log a img{
+    position: absolute;
+    top: 54px;
+    left: 583px;
+    width: 117px;
+    height: 33px;
+    /* UI Properties */
+    background: transparent url('img/Layer 1.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+.catalog2 a{
+    position: absolute;
+    top: 58px;
+}
+.catalog2 a{
+    left: 814px;
+    width: 163px;
+    height: 45px;
+    /* UI Properties */
+    color: var(--unnamed-color-182830);
+    text-align: left;
+    font: normal normal normal 31px/45px Sacramento;
+    letter-spacing: 0px;
+    color: #182830;
+    opacity: 1;
+    justify-content: space-between;
+    text-decoration: none;
+}
+.flora img{
+    position: absolute;
+    top: 92px;
+    left: 619px;
+    width: 45px;
+    height: 16px;
+    /* UI Properties */
+    background: transparent url('img/Group 1.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+    transform: rotateZ();
+}
+.cop a{
+    text-decoration: none;
+    position: absolute;
+    top: 58px;
+    left: 1047px;
+    width: 101px;
+    height: 45px;
+    /* UI Properties */
+    color: var(--unnamed-color-182830);
+    text-align: left;
+    font: normal normal normal 31px/45px Sacramento;
+    font-family: 'Sacramento';
+    letter-spacing: 0px;
+    color: #182830;
+    opacity: 1;   
+}
+.logig{
+    position: absolute;
+    top: 313px;
+    left: 46px;
+    width: 16px;
+    height: 16px;
+}
+.logig img{
+    width: 16px;
+    height: 16px;
+}
+.logtiktok{
+    position: absolute;
+    top: 355px;
+    left: 47px;
+    width: 15px;
+    height: 17px;
+    /* UI Properties */
+    background: transparent url('img/logo-tiktok.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+.logtiktok img{
+    width: 15px;
+    height: 17px;  
+}
+.logfb{
+    position: absolute;
+    top: 399px;
+    left: 46px;
+    width: 16px;
+    height: 16px;
+    /* UI Properties */
+    background: transparent url('img/logo-facebook.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+.logfb img{
+    left: 46px;
+    width: 16px;
+}
+.girl img{
+    position: absolute;
+    top: 150px;
+    left: 193px;
+    width: 456px;
+    height: 409px;
+    /* UI Properties */
+    background: transparent url('img/Mask Group 1.png') 0% 0% no-repeat padding-box;
+    opacity: 1;   
+}
+.logtwitter{
+    position: absolute;
+    top: 441px;
+    left: 46px;
+    width: 17px;
+    height: 14px;
+    /* UI Properties */
+    background: transparent url('img/logo-twitter-outline.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+.logtwitter img{
+    width: 17px;
+    height: 14px;
+}
+.pixe img{
+    position: absolute;
+    top: 151px;
+    left: 649px;
+    width: 225px;
+    height: 204px;
+    /* UI Properties */
+    background: transparent url('img/pexels-jasmin-chew-5478819.png') 0% 0% no-repeat padding-box;
+    opacity: 1;    
+}
+.bouquet img{
+    position: absolute;
+    top: 355px;
+    left: 649px;
+    width: 225px;
+    height: 205px;
+    /* UI Properties */
+    background: transparent url('img/pexels-алекке-блажин-9925101.png') 0% 0% no-repeat padding-box;
+    opacity: 1;    
+}
+.rec{
+    position: absolute;
+    top: 151px;
+    left: 874px;
+    width: 283px;
+    height: 409px;
+    /* UI Properties */
+    background: var(--unnamed-color-e4e4e4) 0% 0% no-repeat padding-box;
+    background: #E4E4E4 0% 0% no-repeat padding-box;
+    opacity: 1;    
+}
+.findtheplc h3{
+    position: absolute;
+    top: 399px;
+    left: 910px;
+    width: 211px;
+    height: 46px;
+    font-family: 'IBM Plex Serif';
+    /* UI Properties */
+    color: var(--unnamed-color-506070);
+    text-align: left;
+    font: normal normal normal 18px/23px IBM Plex Serif;
+    letter-spacing: 0px;
+    color: #506070;
+    opacity: 1;    
+}
+.path8 img{
+    position: absolute;
+    top: 461px;
+    left: 911px;
+    width: 137px;
+    height: 0px;
+    /* UI Properties */
+    border: 3px solid var(--unnamed-color-d9c972);
+    background: transparent url('img/Path 81.png') 0% 0% no-repeat padding-box;
+    border: 3px solid #D9C972;
+    opacity: 1;    
+}
+.iosflwr img{
+    position: absolute;
+    top: 493px;
+    left: 939px;
+    width: 32px;
+    height: 32px;
+    /* UI Properties */
+    background: transparent url('img/ios-flower-outline.png') 0% 0% no-repeat padding-box;
+    opacity: 1;    
+}
+.shopnow h3{
+    position: absolute;
+    top: 494px;
+    left: 911px;
+    width: 88px;
+    height: 23px;
+    /* UI Properties */
+    color: var(--unnamed-color-182830);
+    text-align: left;
+    font: normal normal normal 18px/23px IBM Plex Serif;
+    letter-spacing: 0px;
+    color: #182830;
+    opacity: 1;    
+}
+.firstflr img{
+    position: absolute;
+    top: 221px;
+    left: 937px;
+    width: 80px;
+    height: 80px;
+    /* UI Properties */
+    background: transparent url('img/pexels-алекке-блажин-9925101.png') 0% 0% no-repeat padding-box;
+    opacity: 1;    
+}
+.secflr img{
+    position: absolute;
+    top: 221px;
+    left: 1021px;
+    width: 80px;
+    height: 80px;
+    /* UI Properties */
+    background: transparent url('img/pexels-anna-shvets-3746197.png') 0% 0% no-repeat padding-box;
+    opacity: 1;    
+}
+.thirdflr img{
+    position: absolute;
+    top: 221px;
+    left: 1105px;
+    width: 80px;
+    height: 80px;
+    /* UI Properties */
+    background: transparent url('img/np_Flower bouquet of flowers on light background_5pvWwb_free.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+.forthflr img{
+    position: absolute;
+    top: 221px;
+    left: 1189px;
+    width: 80px;
+    height: 80px;
+    /* UI Properties */
+    background: transparent url('img/pexels-алекке-блажин-9925101.png') 0% 0% no-repeat padding-box;
+    opacity: 1;    
+}
+.florspeak h5{
+    position: absolute;
+    top: 530px;
+    left: 147px;
+    width: 896px;
+    height: 173px;
+    /* UI Properties */
+    background: transparent url('img/Flowers speak.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+    color: white;
+    font-size: 103px;    
+}
+.foryou h5{
+    position: absolute;
+    top: 567px;
+    left: 1058px;
+    width: 131px;
+    height: 52px;
+    /* UI Properties */
+    background: transparent url('img/for you.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+    color: white;
+    font-size: 36px;      
+}
+.footer{
+    position: absolute;
+}
+.talk h4{
+    position: absolute;
+    top: 713px;
+    left: 46px;
+    width: 178px;
+    height: 17px;
+    /* UI Properties */
+    color: var(--unnamed-color-182830);
+    text-align: left;
+    font: normal normal normal 13px/17px IBM Plex Serif;
+    letter-spacing: 0px;
+    color: #182830;
+    opacity: 1;    
+}
+.line{
+    position: absolute;
+    top: 713px;
+    left: 220px;
+    width: 0px;
+    height: 14px;
+    /* UI Properties */
+    opacity: 1;    
+}
+.Email h5{
+    position: absolute;
+    top: 713px;
+    left: 249px;
+    width: 110px;
+    height: 17px;
+    /* UI Properties */
+    color: var(--unnamed-color-182830);
+    text-align: left;
+    font: normal normal normal 13px/17px IBM Plex Serif;
+    letter-spacing: 0px;
+    color: #182830;
+    opacity: 1;
+}
+.whatsap{
+    position: absolute;
+    top: 713px;
+    left: 395px;
+    width: 16px;
+    height: 16px;
+}
+.whatsap img{
+    width: 16px;
+    height: 16px;
+    /* UI Properties */
+    background: var(--unnamed-color-182830) 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+.indexmail{
+    position: absolute;
+    top: 2px;
+    left: 45px;
+    width: 16px;
+    height: 13px;
+}
+.indexmail img{
+    width: 16px;
+    height: 13px;
+    /* UI Properties */
+    background: var(--unnamed-color-182830) 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+.indexbtmshare{
+    position: absolute;
+    top: 5px;
+    left: 795px;
+    width: 135px;
+    height: 31px;
+}
+.indexbtmshare img{
+    width: 135px;
+    height: 31px;
+    /* UI Properties */
+    color: var(--unnamed-color-182830);
+    text-align: left;
+    font: normal normal normal 21px/31px Sacramento;
+    letter-spacing: 0px;
+    color: #182830;
+    opacity: 1;
+    
+}
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+/*aboutus*/
+.aboutus{
+    background-color: #e4e4e4;
+}
+.aboutusinn{
+    min-height: 880px;
+    width: 90vw;
+    margin: 0 auto;
+    display: flex;
+    text-decoration: none;
+    text-align: left;
+}
+.aboutyellow{
+    position: absolute;
+    top: 65px;
+    left: 202px;
+}
+.aboutyellow img{
+width: 137px;
+height: 32px;
+/* UI Properties */
+background: transparent url('img/Group 19.png') 0% 0% no-repeat padding-box;
+opacity: 1;
+
+}
+.style{
+position: absolute;
+top: 705px;
+left: 1185px;
+width: 135px;
+height: 31px;
+color: var(--unnamed-color-182830);
+text-align: left;
+font: normal normal normal 21px/31px Sacramento;
+letter-spacing: 0px;
+color: #182830;
+opacity: 1;
+}
+.middle{
+    position: absolute;
+    top: 705px;
+    left: 700px;
+    width: 135px;
+    height: 31px;
+    text-align: left;
+    letter-spacing: 0px;
+    color: #182830;
+    opacity: 1;
+    }
+
+.about a{
+    position: absolute;
+    top: 58px;
+    left: 218px;
+    width: 99px;
+    height: 45px;
+    /* UI Properties */
+    background: transparent url('img/About us.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+
+    font-family: 'Sacramento', ;
+    text-decoration: none;
+}
+.catalog a{
+    position: absolute;
+    top: 58px;
+    left: 386px;
+    width: 82px;
+    height: 45px;
+    /* UI Properties */
+    color: var(--unnamed-color-182830);
+    text-align: left;
+    font: normal normal normal 31px/45px Sacramento;
+    font-family: 'Sacramento', ;
+    letter-spacing: 0px;
+    color: #182830;
+    opacity: 1;
+    justify-content: space-between;
+    text-decoration: none;
+}
+.log a img{
+    position: absolute;
+    top: 54px;
+    left: 583px;
+    width: 117px;
+    height: 33px;
+    /* UI Properties */
+    background: transparent url('img/Layer 1.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+.sharelove a{
+    position: absolute;
+    top: 58px;
+    left: 814px;
+    width: 163px;
+    height: 45px;
+    /* UI Properties */
+    color: var(--unnamed-color-182830);
+    text-align: left;
+    font: normal normal normal 31px/45px Sacramento;
+    letter-spacing: 0px;
+    color: #182830;
+    opacity: 1;
+    justify-content: space-between;
+    text-decoration: none;
+}
+.flora img{
+    position: absolute;
+    top: 92px;
+    left: 619px;
+    width: 45px;
+    height: 16px;
+    /* UI Properties */
+    background: transparent url('img/Group 1.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+    transform: rotateZ();
+}
+.cop a{
+    text-decoration: none;
+    position: absolute;
+    top: 58px;
+    left: 1047px;
+    width: 101px;
+    height: 45px;
+    /* UI Properties */
+    color: var(--unnamed-color-182830);
+    text-align: left;
+    font: normal normal normal 31px/45px Sacramento;
+    font-family: 'Sacramento';
+    letter-spacing: 0px;
+    color: #182830;
+    opacity: 1;   
+}
+.logoig img{
+    position:absolute;
+    top: 313px;
+    left: 47px;
+    width: 15px;
+    height: 17px;
+    background: transparent url('img/logo-tiktok.png') 0% 0% no-repeat padding-box;
+    opacity: 1;    
+}
+.picc{
+    position: absolute;
+    top: 162px;
+left: 218px;
+width: 931px;
+height: 482px;
+
+}
+.picc img{
+    width: 931px;
+height: 482px;
+    /* UI Properties */
+background: transparent url('img/Mask Group 2.png') 0% 0% no-repeat padding-box;
+opacity: 1;
+}
+.icon1{
+    position: absolute;
+}
+.icon1 img{
+    top: 317px;
+left: 50px;
+width: 8px;
+height: 8px;
+/* UI Properties */
+background: var(--unnamed-color-182830) 0% 0% no-repeat padding-box;
+background: #182830 0% 0% no-repeat padding-box;
+opacity: 1;
+}
+.tak{
+position: absolute;
+}
+.tak{
+    top: 713px;
+    left: 46px;
+    width: 178px;
+    height: 17px;
+    /* UI Properties */
+    color: var(--unnamed-color-182830);
+    text-align: left;
+    font: normal normal normal 13px/17px IBM Plex Serif;
+    letter-spacing: 0px;
+    color: #182830;
+    opacity: 1;
+}
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+/*Catalog*/
+.catalog{
+    background-color: white;
+}
+.cataloginn{
+    min-height: 1366px;
+    width: 90vw;
+    margin: 0 auto;
+    display: flex;
+    text-decoration: none;
+    text-align: left;
+}
+.about a{
+    position: absolute;
+    top: 58px;
+    left: 218px;
+    width: 99px;
+    height: 45px;
+    /* UI Properties */
+    background: transparent url('img/About us.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+
+    font-family: 'Sacramento', ;
+    text-decoration: none;
+}
+.logcat a{
+    position: absolute;
+    top: 54px;
+    left: 583px;
+}
+.logcat a img{
+    width: 117px;
+    height: 33px;
+    /* UI Properties */
+    opacity: 1;
+}
+.orangerec{
+    position: absolute;
+    top: 65px;
+    left: 359px;
+    width: 137px;
+    height: 32px;
+}
+.orangerec img{
+    width: 137px;
+    height: 32px;
+    /* UI Properties */
+    background: transparent url('img/Group 19.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+.box{
+    position: absolute;
+    top: 128px;
+    left: 112px;
+    width: 1143px;
+    height: 362px;
+}
+.box img{
+ 
+width: 1143px;
+height: 362px;
+/* UI Properties */
+background: transparent url('img/Group 63.png') 0% 0% no-repeat padding-box;
+opacity: 1;
+}
+.catalog3{
+    position: absolute;
+    top: 348px;
+    left: 199px;
+}
+.catalog3 img{
+    width: 122px;
+    height: 46px;
+    /* UI Properties */
+    background: transparent url('img/Group 12.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+.yel{
+    position: absolute;
+    top: 482px;
+    left: 323px;
+}
+.yel img{
+width: 53px;
+height: 8px;
+/* UI Properties */
+background: var(--unnamed-color-d9c972) 0% 0% no-repeat padding-box;
+background: #D9C972 0% 0% no-repeat padding-box;
+opacity: 1;
+}
+.all{
+    position: absolute;
+    top: 467px;
+    left: 338px;
+}
+.all h3{
+width: 24px;
+height: 23px;
+/* UI Properties */
+color: var(--unnamed-color-506070);
+text-align: left;
+font: normal normal bold 18px/23px IBM Plex Serif;
+letter-spacing: 0px;
+color: #506070;
+opacity: 1;
+}
+.primary{
+    position: absolute;
+    top: 467px;
+    left: 463px;
+}
+.primary h3{
+    width: 70px;
+    height: 23px;
+    /* UI Properties */
+    color: var(--unnamed-color-506070);
+    text-align: left;
+    font: normal normal normal 18px/23px IBM Plex Serif;
+    letter-spacing: 0px;
+    color: #506070;
+    opacity: 1;
+}
+.secondary{
+    position: absolute;
+    top: 467px;
+    left: 637px;
+}
+.secondary h3{
+    width: 90px;
+    height: 23px;
+    /* UI Properties */
+    color: var(--unnamed-color-506070);
+    text-align: left;
+    font: normal normal normal 18px/23px IBM Plex Serif;
+    letter-spacing: 0px;
+    color: #506070;
+    opacity: 1;
+}
+.fillers{
+    position: absolute;
+    top: 467px;
+    left: 832px;    
+}
+.fillers h3{
+    width: 54px;
+    height: 23px;
+    /* UI Properties */
+    color: var(--unnamed-color-506070);
+    text-align: left;
+    font: normal normal normal 18px/23px IBM Plex Serif;
+    letter-spacing: 0px;
+    color: #506070;
+    opacity: 1;
+}
+.indoor{
+    position: absolute;
+    top: 467px;
+    left: 987px;
+}
+.indoor h3{
+    width: 57px;
+    height: 23px;
+    /* UI Properties */
+    color: var(--unnamed-color-506070);
+    text-align: left;
+    font: normal normal normal 18px/23px IBM Plex Serif;
+    letter-spacing: 0px;
+    color: #506070;
+    opacity: 1;
+}
+.cat1{
+    position: absolute;
+    top: 530px;
+    left: 125px;
+    width: 267px;
+    height: 272px;
+}
+.cat1 img{
+    width: 267px;
+    height: 272px;
+    /* UI Properties */
+    background: transparent url('img/bence-balla-schottner-lGo_E2XonWY-unsplash.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+.redroses{
+    position: absolute;
+    top: 818px;
+    left: 125px;
+    width: 86px;
+    height: 23px;
+}
+.redroses h3{
+    width: 86px;
+    height: 23px;
+    /* UI Properties */
+    background: transparent url('img/Red Roses.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+.cat2{
+    position: absolute;
+    top: 530px;
+    left: 413px;
+    width: 267px;
+    height: 272px;
+}
+.cat2 img{
+    width: 267px;
+    height: 272px;
+    /* UI Properties */
+    background: transparent url('img/evie-s-NUX8vT_lkWI-unsplash.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+.whiteroses{
+    position: absolute;
+    top: 818px;
+    left: 413px;
+    width: 104px;
+    height: 23px;
+}
+.whiteroses h3{
+    width: 104px;
+    height: 23px;
+    /* UI Properties */
+    background: transparent url('img/White Roses.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+.cat3{
+    position: absolute;
+    top: 530px;
+    left: 700px;
+    width: 267px;
+    height: 272px;
+}
+.cat3 img{
+    width: 267px;
+    height: 272px;
+    /* UI Properties */
+    background: transparent url('img/bence-balla-schottner-x68FaxTyx90-unsplash.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+.pinkroses{
+    position: absolute;
+    top: 818px;
+    left: 700px;
+    width: 92px;
+    height: 23px;
+}
+.pinkroses h3{
+    width: 92px;
+    height: 23px;
+    /* UI Properties */
+    background: transparent url('img/Pink Roses.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+    
+}
+.cat4{
+    position: absolute;
+    top: 530px;
+    left: 988px;
+    width: 267px;
+    height: 272px;
+}
+.cat4 img{
+    width: 267px;
+    height: 272px;
+    /* UI Properties */
+    background: transparent url('img/tiffany-chan-ptgjRj9-lD8-unsplash.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+.carnnations{
+    position: absolute;
+    top: 818px;
+    left: 988px;
+    width: 104px;
+    height: 23px;
+}
+.carnnations h3{
+    width: 104px;
+    height: 23px;
+    /* UI Properties */
+    background: transparent url('img/Carnnations.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+.cat11{
+    position: absolute;
+    top: 914px;
+    left: 125px;
+    width: 267px;
+    height: 272px;  
+}
+.cat11 img{
+    width: 267px;
+    height: 272px;
+    /* UI Properties */
+    background: transparent url('img/bence-balla-schottner-lGo_E2XonWY-unsplash.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+.redrose1{
+    position: absolute;
+    top: 1202px;
+    left: 125px;
+    width: 86px;
+    height: 23px;    
+}
+.redrose1 h3{
+    width: 86px;
+    height: 23px;
+    /* UI Properties */
+    background: transparent url('img/Red Roses.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+    
+}
+.cat21{
+    position: absolute;
+    top: 914px;
+    left: 413px;
+    width: 267px;
+    height: 272px;   
+}
+.cat21 img{
+    width: 267px;
+    height: 272px;
+    /* UI Properties */
+    background: transparent url('img/evie-s-NUX8vT_lkWI-unsplash.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+    
+}
+.whiterose1{
+    position: absolute;
+    top: 1202px;
+    left: 413px;
+    width: 104px;
+    height: 23px;    
+}
+.whiterose1 h3{
+    width: 104px;
+    height: 23px;
+    /* UI Properties */
+    background: transparent url('img/White Roses.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+.cat31{
+    position: absolute;
+    top: 914px;
+    left: 700px;
+    width: 267px;
+    height: 272px;
+}
+.cat31 img{
+    width: 267px;
+    height: 272px;
+    /* UI Properties */
+    background: transparent url('img/bence-balla-schottner-x68FaxTyx90-unsplash.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+.pinkrose1{
+    position: absolute;
+    top: 1202px;
+    left: 700px;
+    width: 92px;
+    height: 23px;    
+}
+.pinkrose1 h3{
+    width: 92px;
+    height: 23px;
+    /* UI Properties */
+    background: transparent url('img/Pink Roses.png') 0% 0% no-repeat padding-box;
+    opacity: 1;    
+}
+.cat41{
+    position: absolute;
+    top: 914px;
+    left: 988px;
+    width: 267px;
+    height: 272px;    
+}
+.cat41 img{
+    width: 267px;
+    height: 272px;
+    /* UI Properties */
+    background: transparent url('img/tiffany-chan-ptgjRj9-lD8-unsplash.png') 0% 0% no-repeat padding-box;
+    opacity: 1    
+}
+.carnnations1{
+    position: absolute;
+    top: 1202px;
+    left: 988px;
+    width: 104px;
+    height: 23px;   
+}
+.carnnations1 h3{
+    width: 104px;
+    height: 23px;
+    /* UI Properties */
+    background: transparent url('img/Carnnations.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+.catig{
+    position: absolute;
+    top: 287px;
+    left: 46px;
+    width: 17px;
+    height: 142px;
+}
+.catig img{
+    width: 17px;
+    height: 142px;
+    /* UI Properties */
+    background: transparent url('img/Group 22.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+.catlastpic{
+    position: absolute;
+    top: 1318px;
+    left: 46px;
+    width: 313px;
+    height: 17px;
+}
+.catlastpic img{
+    width: 313px;
+    height: 17px;
+    /* UI Properties */
+    background: transparent url('img/Group 4.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+.catalogwatisup{
+    po
+}
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+/*Share the love*/
+.sharethelv{
+    background-color: white;
+}
+.sharethelvinn{
+    min-height: 880px;
+    width: 1366px;
+    margin: 0 auto;
+    display: flex;
+    text-decoration: none;
+    text-align: left;
+}
+.loglove{
+    position: absolute;
+    top: 54px;
+    left: 581px;
+    width: 18px;
+    height: 25px;
+}
+.loglove img{
+    /* UI Properties */
+    background: var(--unnamed-color-182830) 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+.fl{
+    position: absolute;
+    top: 92px;
+    left: 619px;
+    width: 29px;
+    height: 16px;
+}
+.fl img{
+    width: 23px;
+    height: 16px;
+    /* UI Properties */
+    opacity: 1;
+}
+.looovecart{
+    position: absolute;
+    top: 146px;
+    left: 1295px;
+    width: 18px;
+    height: 11px;
+}
+.looovecart h2{
+    width: 18px;
+    height: 11px;
+    /* UI Properties */
+    color: var(--unnamed-color-d9c972);
+    text-align: left;
+    font: normal normal normal 9px/11px IBM Plex Serif;
+    letter-spacing: 0px;
+    color: #D9C972;
+    opacity: 1;
+}
+.boxyellow{
+    position: absolute;
+    top: 65px;
+    left: 795px;
+    width: 192px;
+    height: 32px;
+}
+.boxyellow img{
+    width: 192px;
+    height: 32px;
+    /* UI Properties */
+    background: transparent url('img/Group 27.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+.shareone{
+    position: absolute;
+    top: 287px;
+    left: 46px;
+    width: 16px;
+    height: 16px;
+}
+.shareone img{
+    width: 16px;
+    height: 16px;
+    /* UI Properties */
+    background: transparent url('img/logo-instagram-outline.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+.sharetwo{
+    position: absolute;
+    top: 329px;
+    left: 47px;
+    width: 15px;
+    height: 17px;
+}
+.sharetwo img{
+    width: 15px;
+    height: 17px;
+    /* UI Properties */
+    background: transparent url('img/logo-tiktok.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+.sharethree{
+    position: absolute;
+    top: 373px;
+    left: 46px;
+    width: 16px;
+    height: 16px;
+}
+.sharethree img{
+    width: 16px;
+    height: 16px;
+    /* UI Properties */
+    background: transparent url('img/logo-facebook.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+.sharefour{
+    position: absolute;
+    top: 415px;
+    left: 46px;
+    width: 17px;
+    height: 14px;
+}
+.sharefour img{
+    width: 17px;
+    height: 14px;
+    background: transparent url('img/logo-twitter-outline.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+.picone{
+    position: absolute;
+    top: 128px;
+    left: 112px;
+    width: 519px;
+    height: 318px;
+}
+.picone img{
+    width: 519px;
+    height: 318px;
+    /* UI Properties */
+    background: transparent url('img/Group 61.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+.pictwo{
+    position: absolute;
+    top: 128px;
+    left: 641px;
+    width: 615px;
+    height: 318px;
+}
+.pictwo img{
+    width: 615px;
+    height: 318px;
+    /* UI Properties */
+    background: transparent url('img/Group 62.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+.bluebox{
+    position: absolute;
+    top: 128px;
+    left: 1270px;
+    width: 62px;
+    height: 70px;
+    transform: matrix(0, -1, 1, 0, 0, 0);
+    /* UI Properties */
+}
+.bluebox h2{
+    width: 62px;
+    height: 70px;
+    transform: matrix(0, -1, 1, 0, 0, 0);
+    /* UI Properties */
+    background: var(--unnamed-color-182830) 0% 0% no-repeat padding-box;
+    background: #182830 0% 0% no-repeat padding-box;
+    border-radius: 10px 10px 0px 0px;
+    opacity: 1;
+}
+.cartimage{
+    position: absolute;
+    top: 146px;
+    left: 1277px;
+    width: 12px;
+    height: 12px;
+    /* UI Properties */
+}
+.cartimage img{
+    width: 12px;
+    height: 12px;
+    /* UI Properties */
+    background: transparent url('img/android-cart.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+.itemsss{
+    position: absolute;
+    top: 167px;
+    left: 1275px;
+    width: 50px;
+    height: 15px;
+}
+.itemsss h2{
+    width: 50px;
+    height: 15px;
+    /* UI Properties */
+    color: var(--unnamed-color-e4e4e4);
+    text-align: left;
+    font: normal normal normal 12px/15px IBM Plex Serif;
+    letter-spacing: 0px;
+    color: #E4E4E4;
+    opacity: 1;   
+}
+.shareall{
+    position: absolute;
+    top: 467px;
+    left: 350px;
+    width: 24px;
+    height: 23px;
+}
+.shareall h2{
+    width: 24px;
+    height: 23px;
+    /* UI Properties */
+    color: var(--unnamed-color-506070);
+    text-align: left;
+    font: normal normal bold 18px/23px IBM Plex Serif;
+    letter-spacing: 0px;
+    color: #506070;
+    opacity: 1;
+}
+.smallyellowbox{
+    position: absolute;
+    top: 482px;
+    left: 335px;
+    width: 53px;
+    height: 8px;
+}
+.smallyellowbox img{
+    width: 53px;
+    height: 8px;
+    /* UI Properties */
+    background: var(--unnamed-color-d9c972) 0% 0% no-repeat padding-box;
+    background: #D9C972 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+.shareindoor{
+    position: absolute;
+    top: 467px;
+    left: 518px;
+    width: 57px;
+    height: 23px;
+}
+.shareindoor h2{
+    width: 57px;
+    height: 23px;
+    /* UI Properties */
+    color: var(--unnamed-color-506070);
+    text-align: left;
+    font: normal normal normal 18px/23px IBM Plex Serif;
+    letter-spacing: 0px;
+    color: #506070;
+    opacity: 1;
+}
+.extras{
+    position: absolute;
+    top: 467px;
+    left: 705px;
+    width: 55px;
+    height: 23px;
+}
+.extras h2{
+    width: 55px;
+    height: 23px;
+    /* UI Properties */
+    color: var(--unnamed-color-506070);
+    text-align: left;
+    font: normal normal normal 18px/23px IBM Plex Serif;
+    letter-spacing: 0px;
+    color: #506070;
+    opacity: 1;
+}
+.makeyourow{
+    position: absolute;
+    top: 467px;
+    left: 904px;
+    width: 128px;
+    height: 23px;
+}
+.makeyourow h2{
+    width: 128px;
+    height: 23px;
+    /* UI Properties */
+    color: var(--unnamed-color-506070);
+    text-align: left;
+    font: normal normal normal 18px/23px IBM Plex Serif;
+    letter-spacing: 0px;
+    color: #506070;
+    opacity: 1;
+}
+.lovepiceone{
+    position: absolute;
+    top: 530px;
+    left: 125px;
+    width: 267px;
+    height: 272px;
+}
+.lovepiceone img{
+    width: 267px;
+    height: 272px;
+    /* UI Properties */
+    background: transparent url('img/pexels-алекке-блажин-9925101.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+.classrec{
+    position: absolute;
+    top: 801px;
+    left: 125px;
+    width: 267px;
+    height: 138px;
+}
+.classrec img{
+    width: 267px;
+    height: 138px;
+    /* UI Properties */
+    border: 1px solid var(--unnamed-color-dcdcdc);
+    background: transparent url('img/pexels-алекке-блажин-9925101.png') 0% 0% no-repeat padding-box;
+    border: 1px solid #DCDCDC;
+    opacity: 1;
+}
+.lovepiconewords{
+    position: absolute;
+    top: 816px;
+    left: 140px;
+    width: 222px;
+    height: 46px;
+}
+.lovepiconewords img{
+    width: 222px;
+    height: 46px;
+    /* UI Properties */
+    background: transparent url('img/Red Roses with carnations And bla bla.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+.moneyone{
+    position: absolute;
+    top: 872px;
+left: 140px;
+width: 90px;
+height: 29px;
+}
+.moneyone h2{
+    width: 90px;
+    height: 29px;
+    /* UI Properties */
+    color: var(--unnamed-color-182830);
+    text-align: left;
+    font: normal normal bold 22px/29px IBM Plex Serif;
+    letter-spacing: 0px;
+    color: #182830;
+    opacity: 1;
+}
+.redmoneyone{
+    position: absolute;
+    top: 899px;
+    left: 140px;
+    width: 74px;
+    height: 22px;
+}
+.redmoneyone h2{
+    width: 74px;
+    height: 22px;
+    /* UI Properties */
+    text-align: left;
+    text-decoration: line-through;
+    font: normal normal bold 17px/22px IBM Plex Serif;
+    letter-spacing: 0px;
+    color: #E35757;
+    opacity: 1;
+}
+.brownboxone{
+    position: absolute;
+    top: 878px;
+    left: 316px;
+    width: 61px;
+    height: 26px;
+}
+.brownboxone h2{
+    width: 61px;
+    height: 26px;
+    /* UI Properties */
+    background: var(--unnamed-color-f2c5b2) 0% 0% no-repeat padding-box;
+    background: #F2C5B2 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+.blackcartone{
+    position: absolute;
+    top: 884px;
+    left: 325px;
+    width: 15px;
+    height: 15px;
+}
+.blackcartone img{
+    width: 15px;
+    height: 15px;
+    /* UI Properties */
+    background: transparent url('img/android-cart.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+.addone{
+    position: absolute;
+    top: 882px;
+    left: 346px;
+    width: 27px;
+    height: 18px;
+}
+.addone h2{
+    width: 27px;
+    height: 18px;
+    /* UI Properties */
+    color: var(--unnamed-color-182830);
+    text-align: left;
+    font: normal normal normal 14px/18px IBM Plex Serif;
+    letter-spacing: 0px;
+    color: #182830;
+    opacity: 1;
+}
+.lovepicetwo{
+    position: absolute;
+    /* Layout Properties */
+    top: 530px;
+    left: 413px;
+    width: 267px;
+    height: 272px;
+}
+.lovepicetwo img{
+    width: 267px;
+    height: 272px;
+    /* UI Properties */
+    background: transparent url('img/evie-s-NUX8vT_lkWI-unsplash.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+.classrectwo{
+    position: absolute;
+    top: 801px;
+    left: 413px;
+    width: 267px;
+    height: 138px;
+}
+.classrectwo img{
+    width: 267px;
+    height: 138px;
+    /* UI Properties */
+    border: 1px solid var(--unnamed-color-dcdcdc);
+    background: transparent url('img/pexels-алекке-блажин-9925101.png') 0% 0% no-repeat padding-box;
+    border: 1px solid #DCDCDC;
+    opacity: 1;
+}
+.lovepictwowords{
+    position: absolute;
+    top: 816px;
+left: 428px;
+width: 222px;
+height: 46px;
+}
+.lovepictwowords img{
+    width: 222px;
+    height: 46px;
+    /* UI Properties */
+    background: transparent url('img/Red Roses with carnations And bla bla.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+.moneytwo{
+    position: absolute;
+    top: 872px;
+left: 428px;
+width: 90px;
+height: 29px;
+}
+.moneytwo h2{
+    width: 90px;
+    height: 29px;
+    /* UI Properties */
+    color: var(--unnamed-color-182830);
+    text-align: left;
+    font: normal normal bold 22px/29px IBM Plex Serif;
+    letter-spacing: 0px;
+    color: #182830;
+    opacity: 1;
+}
+.redmoneytwo{
+position: absolute;
+top: 899px;
+left: 428px;
+width: 74px;
+height: 22px;
+}
+.redmoneytwo h2{
+    width: 74px;
+    height: 22px;
+    /* UI Properties */
+    text-align: left;
+    text-decoration: line-through;
+    font: normal normal bold 17px/22px IBM Plex Serif;
+    letter-spacing: 0px;
+    color: #E35757;
+    opacity: 1;
+}
+.brownboxtwo{
+    position: absolute;
+    top: 878px;
+    left: 604px;
+    width: 61px;
+    height: 26px;
+}
+.brownboxtwo h2{
+    width: 61px;
+    height: 26px;
+    /* UI Properties */
+    background: var(--unnamed-color-f2c5b2) 0% 0% no-repeat padding-box;
+    background: #F2C5B2 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+.blackcarttwo{
+    position: absolute;
+    top: 884px;
+left: 613px;
+width: 15px;
+height: 15px;
+}
+.blackcarttwo img{
+    width: 15px;
+    height: 15px;
+    /* UI Properties */
+    background: transparent url('img/android-cart.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+.addtwo{
+    position: absolute;
+    top: 882px;
+    left: 634px;
+    width: 27px;
+    height: 18px;
+}
+.addtwo h2{
+    width: 27px;
+    height: 18px;
+    /* UI Properties */
+    color: var(--unnamed-color-182830);
+    text-align: left;
+    font: normal normal normal 14px/18px IBM Plex Serif;
+    letter-spacing: 0px;
+    color: #182830;
+    opacity: 1;
+}
+.lovepicethree{
+    position: absolute;
+    top: 530px;
+    left: 700px;
+    width: 267px;
+    height: 272px;
+}
+.lovepicethree img{
+    left: 700px;
+    width: 267px;
+    height: 272px;
+    /* UI Properties */
+    background: transparent url('img/pexels-karolina-grabowska-4219890.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+.classrecthree{
+    position: absolute;
+    top: 801px;
+    left: 701px;
+    width: 267px;
+    height: 138px;
+    /* UI Properties */    
+}
+.classrecthree img{
+    width: 267px;
+    height: 138px;
+    /* UI Properties */
+    border: 1px solid var(--unnamed-color-dcdcdc);
+    background: transparent url('img/pexels-алекке-блажин-9925101.png') 0% 0% no-repeat padding-box;
+    border: 1px solid #DCDCDC;
+    opacity: 1;
+}
+.lovepicthreewords{
+    position: absolute;
+    top: 816px;
+    left: 716px;
+    width: 222px;
+    height: 46px;
+}
+.lovepicthreewords img{
+    width: 222px;
+    height: 46px;
+    /* UI Properties */
+    background: transparent url('img/Red Roses with carnations And bla bla.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+.moneythree{
+    position: absolute;
+    top: 872px;
+    left: 716px;
+    width: 90px;
+    height: 29px;
+}
+.moneythree h2{
+    width: 90px;
+    height: 29px;
+    /* UI Properties */
+    color: var(--unnamed-color-182830);
+    text-align: left;
+    font: normal normal bold 22px/29px IBM Plex Serif;
+    letter-spacing: 0px;
+    color: #182830;
+    opacity: 1;
+}
+.redmoneythree{
+position: absolute;
+top: 899px;
+left: 716px;
+width: 74px;
+height: 22px;
+}
+.redmoneythree h2{
+    width: 74px;
+    height: 22px;
+    /* UI Properties */
+    text-align: left;
+    text-decoration: line-through;
+    font: normal normal bold 17px/22px IBM Plex Serif;
+    letter-spacing: 0px;
+    color: #E35757;
+    opacity: 1;
+    
+}
+.brownboxthree{
+    position: absolute;
+    top: 878px;
+    left: 892px;
+    width: 61px;
+    height: 26px;
+}
+.brownboxthree h2{
+    width: 61px;
+    height: 26px;
+    /* UI Properties */
+    background: var(--unnamed-color-f2c5b2) 0% 0% no-repeat padding-box;
+    background: #F2C5B2 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+.blackcarthree{
+position: absolute;
+top: 884px;
+left: 901px;
+width: 15px;
+height: 15px;
+}
+.blackcarthree img{
+    width: 15px;
+    height: 15px;
+    /* UI Properties */
+    background: transparent url('img/android-cart.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+.addthree{
+position: absolute;
+top: 882px;
+left: 922px;
+width: 27px;
+height: 18px;
+}
+.addthree h2{
+    width: 27px;
+    height: 18px;
+    /* UI Properties */
+    color: var(--unnamed-color-182830);
+    text-align: left;
+    font: normal normal normal 14px/18px IBM Plex Serif;
+    letter-spacing: 0px;
+    color: #182830;
+    opacity: 1;
+}
+.lovepicefour{
+     position: absolute;
+     top: 530px;
+     left: 987px;
+     width: 267px;
+     height: 272px;
+     /* UI Properties */     
+}
+.lovepicefour img{
+    width: 267px;
+    height: 272px;
+    /* UI Properties */
+    background: transparent url('img/tiffany-chan-ptgjRj9-lD8-unsplash.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+.classrecfour{
+    position: absolute;
+    top: 801px;
+    left: 987px;
+    width: 267px;
+    height: 138px;    
+}
+.classrecfour img{
+    width: 267px;
+    height: 138px;
+    /* UI Properties */
+    border: 1px solid var(--unnamed-color-dcdcdc);
+    background: transparent url('img/pexels-алекке-блажин-9925101.png') 0% 0% no-repeat padding-box;
+    border: 1px solid #DCDCDC;
+    opacity: 1;
+}
+.lovepicfourwords{
+    position: absolute;
+    top: 816px;
+    left: 1002px;
+    width: 222px;
+    height: 46px;
+}
+.lovepicfourwords img{
+    width: 222px;
+    height: 46px;
+    /* UI Properties */
+    background: transparent url('img/Red Roses with carnations And bla bla.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+.moneyfour{
+    position: absolute;
+    top: 872px;
+    left: 1002px;
+    width: 90px;
+    height: 29px;
+}
+.moneyfour h2{
+    width: 90px;
+    height: 29px;
+    /* UI Properties */
+    color: var(--unnamed-color-182830);
+    text-align: left;
+    font: normal normal bold 22px/29px IBM Plex Serif;
+    letter-spacing: 0px;
+    color: #182830;
+    opacity: 1;
+}
+.redmoneyfour{
+    position: absolute;
+    top: 899px;
+    left: 1002px;
+    width: 74px;
+    height: 22px;
+}
+.redmoneyfour h2{
+    width: 74px;
+    height: 22px;
+    /* UI Properties */
+    text-align: left;
+    text-decoration: line-through;
+    font: normal normal bold 17px/22px IBM Plex Serif;
+    letter-spacing: 0px;
+    color: #E35757;
+    opacity: 1;
+}
+.brownboxfour{
+    position: absolute;
+    top: 879px;
+    left: 1178px;
+    width: 61px;
+    height: 26px;
+}
+.brownboxfour h2{
+    width: 61px;
+    height: 26px;
+    /* UI Properties */
+    background: var(--unnamed-color-f2c5b2) 0% 0% no-repeat padding-box;
+    background: #F2C5B2 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+.blackcartfour{
+    position: absolute;
+    top: 885px;
+    left: 1187px;
+    width: 15px;
+    height: 15px;
+}
+.blackcartfour img{
+    width: 15px;
+    height: 15px;
+    /* UI Properties */
+    background: transparent url('img/android-cart.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+.addfour{
+    position: absolute;
+    top: 883px;
+    left: 1208px;
+    width: 27px;
+    height: 18px;
+}
+.addfour h2{
+    width: 27px;
+    height: 18px;
+    /* UI Properties */
+    color: var(--unnamed-color-182830);
+    text-align: left;
+    font: normal normal normal 14px/18px IBM Plex Serif;
+    letter-spacing: 0px;
+    color: #182830;
+    opacity: 1;
+}
+.lovepicfive{
+position: absolute;
+top: 979px;
+left: 125px;
+width: 267px;
+height: 272px;
+}
+.lovepicfive img{
+    width: 267px;
+    height: 272px;
+    /* UI Properties */
+    background: transparent url('img/pexels-алекке-блажин-9925101.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+.classfiverec{
+    position: absolute;
+    top: 1250px;
+left: 125px;
+width: 267px;
+height: 138px;
+}
+.classfiverec img{
+    width: 267px;
+    height: 138px;
+    /* UI Properties */
+    border: 1px solid var(--unnamed-color-dcdcdc);
+    background: transparent url('img/pexels-алекке-блажин-9925101.png') 0% 0% no-repeat padding-box;
+    border: 1px solid #DCDCDC;
+    opacity: 1;
+}
+.lovepicfivewords{
+    position: absolute;
+    /* Layout Properties */
+    top: 1265px;
+    left: 140px;
+    width: 222px;
+    height: 46px;
+}
+.lovepicfivewords img{
+    width: 222px;
+    height: 46px;
+    /* UI Properties */
+    background: transparent url('img/Red Roses with carnations And bla bla.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+.moneyfive{
+    position: absolute;
+    top: 1321px;
+    left: 140px;
+    width: 90px;
+    height: 29px;
+}
+.moneyfive h2{
+    width: 90px;
+    height: 29px;
+    /* UI Properties */
+    color: var(--unnamed-color-182830);
+    text-align: left;
+    font: normal normal bold 22px/29px IBM Plex Serif;
+    letter-spacing: 0px;
+    color: #182830;
+    opacity: 1;
+}
+.redmoneyfive{
+    position: absolute;
+    top: 1348px;
+    left: 140px;
+    width: 74px;
+    height: 22px;
+}
+.redmoneyfive h2{
+    width: 74px;
+    height: 22px;
+    /* UI Properties */
+    text-align: left;
+    text-decoration: line-through;
+    font: normal normal bold 17px/22px IBM Plex Serif;
+    letter-spacing: 0px;
+    color: #E35757;
+    opacity: 1;
+}
+.blackcartfive{
+    position: absolute;
+    top: 1327px;
+    left: 316px;
+    width: 61px;
+    height: 26px;
+}
+.blackcartfive img{
+    width: 61px;
+    height: 26px;
+    /* UI Properties */
+    background: transparent url('img/Group 54.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+.lovepicesix{
+    position: absolute;
+    top: 979px;
+    left: 413px;
+    width: 267px;
+    height: 272px;
+}
+.lovepicesix img{
+    width: 267px;
+    height: 272px;
+    /* UI Properties */
+    background: transparent url('img/evie-s-NUX8vT_lkWI-unsplash.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+.classrecsixrec{
+    top: 1250px;
+    left: 413px;
+    width: 267px;
+    height: 138px;   position: absolute;
+   
+}
+.classrecsixrec img{
+    width: 267px;
+    height: 138px;
+    /* UI Properties */
+    border: 1px solid var(--unnamed-color-dcdcdc);
+    background: transparent url('img/pexels-алекке-блажин-9925101.png') 0% 0% no-repeat padding-box;
+    border: 1px solid #DCDCDC;
+    opacity: 1;
+}
+.lovepicsixwords{
+    position: absolute;
+    top: 1265px;
+    left: 428px;
+    width: 222px;
+    height: 46px;
+}
+.lovepicsixwords img{
+    width: 222px;
+    height: 46px;
+    /* UI Properties */
+    background: transparent url('img/Red Roses with carnations And bla bla.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+.moneysix{
+    position: absolute;
+    top: 1321px;
+    left: 428px;
+    width: 90px;
+    height: 29px;
+}
+.moneysix h2{
+    width: 90px;
+    height: 29px;
+    /* UI Properties */
+    color: var(--unnamed-color-182830);
+    text-align: left;
+    font: normal normal bold 22px/29px IBM Plex Serif;
+    letter-spacing: 0px;
+    color: #182830;
+    opacity: 1;
+}
+.redmoneysix{
+    position: absolute;
+    top: 1348px;
+    left: 428px;
+    width: 74px;
+    height: 22px;
+}
+.redmoneysix h2{
+    width: 74px;
+    height: 22px;
+    /* UI Properties */
+    text-align: left;
+    text-decoration: line-through;
+    font: normal normal bold 17px/22px IBM Plex Serif;
+    letter-spacing: 0px;
+    color: #E35757;
+    opacity: 1;
+}
+.blackcartsix{
+    position: absolute;
+    top: 1327px;
+    left: 604px;
+    width: 61px;
+    height: 26px;
+}
+.blackcartsix img{
+    width: 61px;
+    height: 26px;
+    /* UI Properties */
+    background: transparent url('img/Group 56.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+.lovepicesvn{
+    position: absolute;
+    top: 979px;
+    left: 700px;
+    width: 267px;
+    height: 272px;
+}
+.lovepicesvn img{
+    width: 267px;
+    height: 272px;
+    /* UI Properties */
+    background: transparent url('img/pexels-karolina-grabowska-4219890.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+.classrecsvn{
+    position: absolute;
+    top: 1250px;
+    left: 701px;
+    width: 267px;
+    height: 138px;
+}
+.classrecsvn img{
+    width: 267px;
+    height: 138px;
+    /* UI Properties */
+    border: 1px solid var(--unnamed-color-dcdcdc);
+    background: transparent url('img/pexels-алекке-блажин-9925101.png') 0% 0% no-repeat padding-box;
+    border: 1px solid #DCDCDC;
+    opacity: 1;
+}
+.lovepicsvnwords{
+    position: absolute;
+    top: 1265px;
+    left: 716px;
+    width: 222px;
+    height: 46px;
+}
+.lovepicsvnwords img{
+    width: 222px;
+    height: 46px;
+    /* UI Properties */
+    background: transparent url('img/Red Roses with carnations And bla bla.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+.moneysvn{
+    position: absolute;
+    top: 1321px;
+    left: 716px;
+    width: 90px;
+    height: 29px;
+}
+.moneysvn h2{
+    width: 90px;
+    height: 29px;
+    /* UI Properties */
+    color: var(--unnamed-color-182830);
+    text-align: left;
+    font: normal normal bold 22px/29px IBM Plex Serif;
+    letter-spacing: 0px;
+    color: #182830;
+    opacity: 1;
+}
+.redmoneysvn{
+    position: absolute;
+    top: 1348px;
+    left: 716px;
+    width: 74px;
+    height: 22px;
+}
+.redmoneysvn h2{
+    width: 74px;
+    height: 22px;
+    /* UI Properties */
+    text-align: left;
+    text-decoration: line-through;
+    font: normal normal bold 17px/22px IBM Plex Serif;
+    letter-spacing: 0px;
+    color: #E35757;
+    opacity: 1;
+}
+.blackcarsvn{
+    position: absolute;
+    top: 1327px;
+    left: 892px;
+    width: 61px;
+    height: 26px;
+}
+.blackcarsvn img{
+    width: 61px;
+    height: 26px;
+    /* UI Properties */
+    background: transparent url('img/Group 58.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+.lovepiceeit{
+    position: absolute;
+    top: 979px;
+    left: 987px;
+    width: 267px;
+    height: 272px;
+}
+.lovepiceeit img{
+    width: 267px;
+    height: 272px;
+    /* UI Properties */
+    background: transparent url('img/tiffany-chan-ptgjRj9-lD8-unsplash.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+.classreceit{
+    position: absolute;
+    top: 1250px;
+    left: 987px;
+    width: 267px;
+    height: 138px;
+}
+.classreceit img{
+    width: 267px;
+    height: 138px;
+    /* UI Properties */
+    border: 1px solid var(--unnamed-color-dcdcdc);
+    background: transparent url('img/pexels-алекке-блажин-9925101.png') 0% 0% no-repeat padding-box;
+    border: 1px solid #DCDCDC;
+    opacity: 1;
+}
+.lovepiceitwords{
+    position: absolute;
+    top: 1265px;
+    left: 1002px;
+    width: 222px;
+    height: 46px;    
+}
+.lovepiceitwords img{
+    width: 222px;
+    height: 46px;
+    /* UI Properties */
+    background: transparent url('img/Red Roses with carnations And bla bla.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+.moneyeit{
+    position: absolute;
+    top: 1321px;
+    left: 1002px;
+    width: 90px;
+    height: 29px;
+}
+.moneyeit h2{
+    width: 90px;
+    height: 29px;
+    /* UI Properties */
+    color: var(--unnamed-color-182830);
+    text-align: left;
+    font: normal normal bold 22px/29px IBM Plex Serif;
+    letter-spacing: 0px;
+    color: #182830;
+    opacity: 1;
+}
+.redmoneyeit{
+    position: absolute;
+    top: 1348px;
+    left: 1002px;
+    width: 74px;
+    height: 22px;
+}
+.redmoneyeit h2{
+    width: 74px;
+    height: 22px;
+    /* UI Properties */
+    text-align: left;
+    text-decoration: line-through;
+    font: normal normal bold 17px/22px IBM Plex Serif;
+    letter-spacing: 0px;
+    color: #E35757;
+    opacity: 1;
+}
+.blackcarteit{
+    position: absolute;
+    top: 1328px;
+    left: 1178px;
+    width: 61px;
+    height: 26px;
+}
+.blackcarteit img{
+    width: 61px;
+    height: 26px;
+    /* UI Properties */
+    background: transparent url('img/Group 60.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+.lastpic{
+    position: absolute;
+    top: 1447px;
+    left: 46px;
+    width: 313px;
+    height: 17px;
+}
+.lastpic img{
+    width: 313px;
+    height: 17px;
+    /* UI Properties */
+    background: transparent url('img/Group 4.png') 0% 0% no-repeat padding-box;
+    opacity: 1;    
+}
+.watisup{
+    position: absolute;
+    top: 1447px;
+    left: 395px;
+    width: 16px;
+    height: 16px;
+}
+.watisup img{
+    width: 16px;
+    height: 16px;
+    /* UI Properties */
+    background: var(--unnamed-color-182830) 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+.sharemail{
+    position: absolute;
+    top: 1449px;
+    left: 447px;
+    width: 16px;
+    height: 13px;
+}
+.sharemail img{
+    width: 16px;
+    height: 13px;
+    /* UI Properties */
+    background: var(--unnamed-color-182830) 0% 0% no-repeat padding-box;
+    background: #182830 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+.sharelabella{
+    position: absolute;
+    top: 1443px;
+    left: 608px;
+    width: 150px;
+    height: 20px; 
+}
+.sharelabella img{
+    width: 150px;
+    height: 20px;
+    /* UI Properties */
+    background: transparent url('img/© Labella Ltd. 2022.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+.btmshare{
+    position: absolute;
+    top: 1439px;
+    left: 1185px;
+    width: 135px;
+    height: 31px;
+}
+.btmshare img{
+width: 135px;
+height: 31px;
+/* UI Properties */
+background: transparent url('img/It’s all about Love.png') 0% 0% no-repeat padding-box;
+opacity: 1;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
